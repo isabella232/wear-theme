@@ -4,7 +4,7 @@ Wear Theme - Premium nopCommerce theme created with Bootstrap 4.
 
 ---
 
-Live preview: [http://theme21.nopcommerce.pl/](http://theme21.nopcommerce.pl)
+Live preview: [http://theme20.nopcommerce.pl/](http://theme20.nopcommerce.pl)
 
 Theme can be purchased here: [https://www.nop4you.com/wear-theme-for-nopcommerce](https://www.nop4you.com/wear-theme-for-nopcommerce)
 
